@@ -88,7 +88,7 @@ PyQtWebEngine==5.15.4
 PyQtWebEngine-Qt5==5.15.2
 pyRFC3339==1.1
 PySocks==1.7.1
-python-apt==0.7.8
+python-apt==0.0.0
 python-dateutil==2.7.3
 python-debian===0.1.36ubuntu1
 python-markdown-math==0.8
